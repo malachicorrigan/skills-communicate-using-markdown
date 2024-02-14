@@ -4,3 +4,4 @@
 #### This is an H4 Header
 ##### This is an H5 Header
 ###### This is an H6 Header
+![Image of GitHub Logo Invertocat](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png)
