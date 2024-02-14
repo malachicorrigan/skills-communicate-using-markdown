@@ -9,3 +9,7 @@
 ``` python
 pip install boto3
 ```
+
+- [x] Install Python 3
+- [X] Install Boto 3
+- [ ] Make Something
